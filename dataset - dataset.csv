@@ -1,0 +1,41 @@
+Order ID,Product Name,Category,Price,Quantity,Discount,Order Date,Customer Email,Customer Gender,Customer Age,Customer State
+1001,iPhone 12,Electronics,999,1,0.1,01-01-2022,john.doe@gmail.com,Male,30,California
+1002,Samsung TV,Electronics,599,2,0,01-01-2022,jane.doe@gmail.com,Female,35,California
+1003,Canon Camera,Electronics,399,1,0.05,02-01-2022,john.doe@gmail.com,Male,30,California
+1004,Macbook Air,Electronics,1299,1,0.2,02-01-2022,john.smith@gmail.com,Male,25,Texas
+1005,T-Shirt,Clothing,20,5,0.05,03-01-2022,susan.smith@gmail.com,Female,45,Florida
+1006,Running Shoes,Footwear,100,3,0,04-01-2022,jack.johnson@gmail.com,Male,28,New York
+1007,Desk Lamp,Home and Garden,30,2,0,04-01-2022,emily.jones@gmail.com,Female,22,Texas
+1008,Dress,Clothing,50,1,0,05-01-2022,amy.johnson@gmail.com,Female,35,Florida
+1009,Smart Watch,Electronics,199,1,0,05-01-2022,will.smith@gmail.com,Male,50,California
+1010,Toaster,Home and Garden,25,1,0.05,06-01-2022,john.smith@gmail.com,Male,25,Texas
+1011,Headphones,Electronics,199,3,0.1,07-01-2022,jane.doe@gmail.com,Female,35,California
+1012,Monitor,Electronics,299,1,0.05,07-01-2022,john.doe@gmail.com,Male,30,California
+1013,Cookware Set,Home and Garden,149,1,0,08-01-2022,emily.smith@gmail.com,Female,40,Texas
+1014,Microwave Oven,Electronics,149,1,0,08-01-2022,jack.jones@gmail.com,Male,32,Florida
+1015,Blender,Home and Garden,49,2,0,09-01-2022,amy.johnson@gmail.com,Female,35,Florida
+1016,Smartphone Case,Electronics,20,3,0.05,09-01-2022,john.smith@gmail.com,Male,25,Texas
+1017,Sneakers,Footwear,80,2,0,10-01-2022,jack.johnson@gmail.com,Male,28,New York
+1018,Dining Table,Home and Garden,499,1,0.1,10-01-2022,emily.jones@gmail.com,Female,22,Texas
+1019,Jacket,Clothing,80,1,0,11-01-2022,susan.smith@gmail.com,Female,45,Florida
+1020,Water Bottle,Home and Garden,10,5,0,12-01-2022,will.smith@gmail.com,Male,50,California
+1021,Ankle Weights,Sports and Outdoors,20,1,0,22-01-2022,will.smith@gmail.com,Male,50,California
+1022,Yoga Mat,Sports and Outdoors,30,1,0,12-01-2022,jack.jones@gmail.com,Male,32,Florida
+1023,Backpack,Fashion Accessories,50,2,0,13-01-2022,emily.smith@gmail.com,Female,40,Texas
+1024,Desktop Computer,Electronics,999,1,0,13-01-2022,will.smith@gmail.com,Male,50,California
+1025,Office Chair,Home and Garden,149,1,0,14-01-2022,john.doe@gmail.com,Male,30,California
+1026,Running Shorts,Clothing,40,2,0,14-01-2022,jack.johnson@gmail.com,Male,28,New York
+1027,Bluetooth Speaker,Electronics,79,1,0.05,15-01-2022,jane.doe@gmail.com,Female,35,California
+1028,Garden Tools,Home and Garden,30,1,0,15-01-2022,john.smith@gmail.com,Male,25,Texas
+1029,Baseball Glove,Sports and Outdoors,99,1,0,16-01-2022,susan.smith@gmail.com,Female,45,Florida
+1030,Smart Thermostat,Home and Garden,149,1,0.1,16-01-2022,amy.johnson@gmail.com,Female,35,Florida
+1031,Back Massager,Health and Wellness,50,1,0,17-01-2022,jack.jones@gmail.com,Male,32,Florida
+1032,Football,Sports and Outdoors,25,2,0,17-01-2022,jack.johnson@gmail.com,Male,28,New York
+1033,Bookshelf,Home and Garden,99,1,0,18-01-2022,emily.jones@gmail.com,Female,22,Texas
+1034,Sunglasses,Fashion Accessories,25,1,0,18-01-2022,emily.smith@gmail.com,Female,40,Texas
+1035,Wireless Earbuds,Electronics,129,1,0,19-01-2022,jane.doe@gmail.com,Female,35,California
+1036,Running Socks,Sports and Outdoors,10,5,0,19-01-2022,will.smith@gmail.com,Male,50,California
+1037,Blouse,Clothing,40,1,0,20-01-2022,susan.smith@gmail.com,Female,45,Florida
+1038,Swimming Goggles,Sports and Outdoors,30,1,0,20-01-2022,john.smith@gmail.com,Male,25,Texas
+1039,Smart Speaker,Electronics,99,1,0,21-01-2022,jack.jones@gmail.com,Male,32,Florida
+1040,Kettle,Home and Garden,25,1,0,21-01-2022,emily.smith@gmail.com,Female,40,Texas
